@@ -6,7 +6,7 @@ namespace Casting_DeBord_Joshua //This tells you that i am big brain
     {
         static void Main(string[] args)
         {
-            Console.Write("Could you please input a whole number? "); 
+            Console.Write("Could you please input a whole number? ");  
             //prompts the user to input a whole number
             
             int wholeNumber = Convert.ToInt32(Console.ReadLine()); 
